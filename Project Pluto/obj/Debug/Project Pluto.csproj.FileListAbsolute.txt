@@ -1,0 +1,10 @@
+F:\Pluto\Project Pluto\Project Pluto\bin\Debug\Project Pluto.exe.config
+F:\Pluto\Project Pluto\Project Pluto\bin\Debug\Project Pluto.exe
+F:\Pluto\Project Pluto\Project Pluto\bin\Debug\Project Pluto.pdb
+F:\Pluto\Project Pluto\Project Pluto\obj\Debug\Project Pluto.csproj.AssemblyReference.cache
+F:\Pluto\Project Pluto\Project Pluto\obj\Debug\Project_Pluto.Pluto.resources
+F:\Pluto\Project Pluto\Project Pluto\obj\Debug\Project_Pluto.Properties.Resources.resources
+F:\Pluto\Project Pluto\Project Pluto\obj\Debug\Project Pluto.csproj.GenerateResource.cache
+F:\Pluto\Project Pluto\Project Pluto\obj\Debug\Project Pluto.csproj.CoreCompileInputs.cache
+F:\Pluto\Project Pluto\Project Pluto\obj\Debug\Project Pluto.exe
+F:\Pluto\Project Pluto\Project Pluto\obj\Debug\Project Pluto.pdb
